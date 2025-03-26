@@ -19,10 +19,7 @@ namespace ContactList
 
         private void button1_Click(object sender, EventArgs e)
         {
-            AddContactForm addContactForm = new AddContactForm();
-
-            // Hiển thị form AddContactForm
-            addContactForm.ShowDialog();  // Dùng ShowDialog để mở form như một cửa sổ modal
+          
         }
     }
 }
