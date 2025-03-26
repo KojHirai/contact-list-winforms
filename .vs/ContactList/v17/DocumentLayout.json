@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CNTT\\a\\contact-list-winforms\\",
+  "WorkspaceRootPath": "D:\\CODE\\a\\contact-list-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|E:\\CNTT\\a\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|e:\\cntt\\a\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|e:\\cntt\\a\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|D:\\CODE\\a\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|e:\\cntt\\a\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|D:\\CODE\\a\\contact-list-winforms\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|E:\\CNTT\\a\\contact-list-winforms\\contactlist\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|D:\\CODE\\a\\contact-list-winforms\\contactlist\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|d:\\code\\a\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|D:\\CODE\\a\\contact-list-winforms\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A474770-26AD-4567-A110-962536A13774}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,32 +34,40 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AddContactForm.cs",
-              "DocumentMoniker": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "DocumentMoniker": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "ToolTip": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs",
               "RelativeToolTip": "ContactList\\AddContactForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIA9wBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T03:31:54.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs",
+              "DocumentMoniker": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs",
               "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
-              "ToolTip": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
+              "ToolTip": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\AddContactForm.cs [Design]",
               "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T03:31:35.339Z",
@@ -67,41 +75,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.Designer.cs",
-              "ToolTip": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\MainForm.Designer.cs",
+              "ToolTip": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\MainForm.Designer.cs",
               "RelativeToolTip": "ContactList\\MainForm.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T02:57:39.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\MainForm.cs",
+              "DocumentMoniker": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
-              "ToolTip": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\MainForm.cs",
+              "ToolTip": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\MainForm.cs",
               "RelativeToolTip": "ContactList\\MainForm.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBgAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwBgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T02:57:17.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\MainForm.cs",
+              "DocumentMoniker": "D:\\CODE\\a\\contact-list-winforms\\ContactList\\MainForm.cs",
               "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
               "ToolTip": "E:\\CNTT\\a\\contact-list-winforms\\ContactList\\MainForm.cs [Design]",
-              "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T02:55:07.664Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-26T02:55:07.664Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 255,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
